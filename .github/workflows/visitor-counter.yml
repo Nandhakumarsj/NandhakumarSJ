@@ -2,22 +2,24 @@ name: Update Visitor Count
 
 on:
   schedule:
-    # Runs every day at midnight UTC
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   update-counter:
     runs-on: ubuntu-latest
     
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       
       - name: Generate visitor badge
         run: |
           echo "Visitor counter updated via external service"
-          # The profile-counter.glitch.me service handles counting automatically
+          echo "Using komarev.com visitor counter"
       
       - name: Commit changes (if any)
         run: |
