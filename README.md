@@ -17,7 +17,7 @@
 <!-- Social Connect Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandhakumarsj)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:excelnandhu@gmail.com)
-[!Portfolio](https://nandhakumar-s-j-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20View-AD2DA6?style=for-the-badge&logo=vercel&logoColor=white)](https://nandhakumar-s-j-portfolio.vercel.app)
 
 <br/>
 
@@ -52,7 +52,7 @@ me.say_hi()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandhakumarsj)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:excelnandhu@gmail.com)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)-->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nandhakumar-s-j-portfolio.vercel.app)
 
 </div>
 
