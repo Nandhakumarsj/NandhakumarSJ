@@ -17,6 +17,7 @@
 <!-- Social Connect Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandhakumarsj)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:excelnandhu@gmail.com)
+[!Portfolio](https://nandhakumar-s-j-portfolio.vercel.app/)
 
 <br/>
 
@@ -201,19 +202,13 @@ me.say_hi()
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nandhakumarsj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Nandhakumarsj&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
+
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhakumarsj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages"/>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhakumarsj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nandhakumarsj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
 
 <br/>
 
