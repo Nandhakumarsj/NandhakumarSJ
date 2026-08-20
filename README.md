@@ -240,7 +240,7 @@ me.say_hi()
 ## ⏩ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Nandhakumarsj/CookieCatcher/pull/1) in [Nandhakumarsj/CookieCatcher](https://github.com/Nandhakumarsj/CookieCatcher)
+1. 🎉 Merged PR [#1](https://github.com/Nandhakumarsj/TFACD/pull/1) in [Nandhakumarsj/TFACD](https://github.com/Nandhakumarsj/TFACD)
 <!--END_SECTION:activity-->
 
 <br/>
