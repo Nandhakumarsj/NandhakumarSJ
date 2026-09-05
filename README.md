@@ -240,7 +240,7 @@ me.say_hi()
 ## ⏩ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Nandhakumarsj/TFACD/pull/2) in [Nandhakumarsj/TFACD](https://github.com/Nandhakumarsj/TFACD)
+1. 💪 Opened PR [#2](https://github.com/Nandhakumarsj/skills-introduction-to-github/pull/2) in [Nandhakumarsj/skills-introduction-to-github](https://github.com/Nandhakumarsj/skills-introduction-to-github)
 <!--END_SECTION:activity-->
 
 <br/>
